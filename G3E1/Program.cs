@@ -9,6 +9,13 @@ namespace G3E1
     {
         static void Main(string[] args)
         {
+            /*
+             * PROGRAMACION ESTRUCTURADA GRUPO 07L
+             * EJERCICIO 1 GUIA 3
+             * 
+             * OSCAR ROLANDO CAÑAS VALDIZON
+             */
+
             //Se definen las variables base
             double km = 0;
             double result1 = 0;
